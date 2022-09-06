@@ -38,10 +38,6 @@
     },
     "scripts": {
         "test": "phpunit"
-    },
-    "extra": {
-        "branch-alias": {
-        }
     }
 
 }
